@@ -1,0 +1,11 @@
+{
+  "title": "Basic App to Test Rest with React Native",
+  "description": "Your app fetched this from a remote endpoint!",
+  "movies": [
+    { "title": "Student of the year", "releaseYear": "2015"},
+    { "title": "Wisdom", "releaseYear": "1958"},
+    { "title": "Who am I", "releaseYear": "1998"},
+    { "title": "Exception", "releaseYear": "2019"},
+    { "title": "External", "releaseYear": "2018"}
+  ]
+}
